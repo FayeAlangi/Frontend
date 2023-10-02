@@ -1,0 +1,39 @@
+body{
+  justify-content: center;
+  font-family: 'Courier New', monospace;
+}
+.App{
+  display: grid;
+  text-align:center
+}
+.header-image{
+  padding: 2% 2% 2% 2%;
+  border-radius: 10%;
+  object-fit:cover;
+ 
+}
+
+
+.cards-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* flex-grow: 3; */
+  justify-content: center;
+  text-align: center; 
+}
+.card{
+  padding: 2% 2% 2% 2%;
+  margin: 20px;
+  text-align: center;
+  background-color: #fefbf3;
+  border-radius: 5%;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+}
+.card-image{
+  border-radius: 5%;
+}
+h1{
+  font-size: 40rem;
+}
