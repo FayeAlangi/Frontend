@@ -2,7 +2,7 @@
 
 Submitted by: **Faye Alangi**
 
-This web app: **This is an app that shows a collection of concenrts happening near Chicago. The view Event button takes the user to the event webpage with more information and ticket purchase options.**
+This web app: **This is an app that shows a collection of concerts happening near Chicago. The view Event button takes the user to the event webpage with more information and ticket purchase options.**
 
 Time spent: **3** hours spent in total
 
