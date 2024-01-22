@@ -24,8 +24,8 @@ Here are some of the featured React applications in this collection:
    - Link: [CommunityBoard](https://github.com/FayeAlangi/Frontend/tree/main/CommunityBoard)
 
 2. **App Name 2**
-   - Description: LegoCards : This is an app that shows a series of questions and asnwers related to Legos. The user can click on each question to eveal the answer
-   - Link: [LegoCards](https://github.com/FayeAlangi/React-Apps-Collection/blob/main/LegoCards/README.md)
+   - Description: Brief description of the second app.
+   - Link: [App Name 2](#)
 
 <!-- Add more apps as needed -->
 
@@ -55,7 +55,7 @@ Feel free to explore each app's individual directory for more detailed instructi
 
 ## License
 
-Copyright [2024] [Faye Alangi]
+Copyright [2023] [Faye Alangi]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
