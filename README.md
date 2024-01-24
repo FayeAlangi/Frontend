@@ -19,13 +19,13 @@ This repository serves as a showcase of diverse applications developed with Reac
 
 Here are some of the featured React applications in this collection:
 
-1. **App Name 1**
-   - Description: CommunityBoard : This is an app that shows a collection of concerts happening near Chicago. The view Event button takes the user to the event webpage with more information and ticket purchase options.
+1. **CommunityBoard**
+   - Description:  : This is an app that shows a collection of concerts happening near Chicago. The view Event button takes the user to the event webpage with more information and ticket purchase options.
    - Link: [CommunityBoard](https://github.com/FayeAlangi/Frontend/tree/main/CommunityBoard)
 
-2. **App Name 2**
-   - Description: Brief description of the second app.
-   - Link: [App Name 2](#)
+2. **LegoCards*
+   - Description: This is an app that shows a series of questions and asnwers related to Legos. The user can click on each question to reveal the answer
+   - Link: [App Name 2](https://github.com/FayeAlangi/React-apps/tree/main/LegoCards)
 
 <!-- Add more apps as needed -->
 
@@ -35,7 +35,7 @@ To get started with any of the applications in this collection, follow these gen
 
 1. Clone the repository:
    
-   `git clone https://github.com/your-username/react-apps-collection.git`
+   `git clone https://github.com/your-username/react-apps.git`
 
 2. Navigate to the specific app's directory:
 
