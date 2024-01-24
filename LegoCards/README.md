@@ -2,7 +2,7 @@
 
 Submitted by: **Faye Alangi**
 
-This web app: **This is an app that shows a series of questions and asnwers related to Legos. The user can click on each question to eveal the answer**
+This web app: **This is an app that shows a series of questions and asnwers related to Legos. The user can click on each question to reveal the answer**
 
 Time spent: **4** hours spent in total
 
