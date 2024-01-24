@@ -23,9 +23,9 @@ Here are some of the featured React applications in this collection:
    - Description:  : This is an app that shows a collection of concerts happening near Chicago. The view Event button takes the user to the event webpage with more information and ticket purchase options.
    - Link: [CommunityBoard](https://github.com/FayeAlangi/Frontend/tree/main/CommunityBoard)
 
-2. **LegoCards*
+2. **LegoCards**
    - Description: This is an app that shows a series of questions and asnwers related to Legos. The user can click on each question to reveal the answer
-   - Link: [App Name 2](https://github.com/FayeAlangi/React-apps/tree/main/LegoCards)
+   - Link: [LegoCards](https://github.com/FayeAlangi/React-apps/tree/main/LegoCards)
 
 <!-- Add more apps as needed -->
 
