@@ -1,7 +1,7 @@
 # Web Development Project  - Barista
 
 
-This web app: ** is inspired by Wordle. You can memorize coffee drink recipes and quiz yourself on a random real (and possibly discontinued 😉) Starbucks drink's ☕️ temperature , flavor, milk type, and blendedness. The app will let you know if you're a natural at barista-ing.**
+This web app: **is inspired by Wordle. You can memorize coffee drink recipes and quiz yourself on a random real (and possibly discontinued 😉) Starbucks drink's ☕️ temperature , flavor, milk type, and blendedness. The app will let you know if you're a natural at barista-ing.**
 
 
 ## Features
@@ -20,9 +20,13 @@ The following **required** functionality is completed:
 To run the application locally, follow these steps:
 
 Clone this repository to your local machine.
+
 Navigate to the project directory in your terminal.
-Install the necessary dependencies by running npm install.
-Start the development server by running npm start.
+
+Install the necessary dependencies by running `npm install`.
+
+Start the development server by running `npm start`.
+
 Open your web browser and navigate to http://localhost:3000 to view the application.
 
 ## Video Walkthrough
@@ -40,9 +44,7 @@ GIF created with LICEcap.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-Using useEffect hook to reset the state if **Flip**.
+XXXX
 
 ## License
 
