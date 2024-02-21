@@ -1,6 +1,6 @@
 
 import './App.css'
-import BaristaForm from './components/BristaFrom'
+import BaristaForm from './components/BristaForm'
 
 function App() {
 
