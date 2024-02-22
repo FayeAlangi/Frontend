@@ -6,10 +6,13 @@ This web app: **is inspired by Wordle. You can memorize coffee drink recipes and
 
 ## Features
 
-The following **required** functionality is completed:
 
-- [x] **XXX**
-- [x] **XXX**
+
+- [x] **Refresh Button** The refresh button next to the search bar fetches a random drink.
+- [x] **Ingredients** The user can guess and pick the ingredients and options or the recipe of the drink from 4 categories of temperature, milk, syrup and blended.
+
+- [x] **Check Answer Button** The user presses the **Check Answer** button and will see the correct answers highlighted in green and the wrong answers highlighted in red.
+
 
 ## Technologies Used
 **React**: The frontend of the application is built using React, a popular JavaScript library for building user interfaces.
@@ -42,9 +45,7 @@ GIF created with LICEcap.
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-XXXX
 
 ## License
 
